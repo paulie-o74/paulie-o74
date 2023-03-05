@@ -23,9 +23,9 @@ React and the Django Rest Framework 🤓
 ### 📂 Recent portfolio projects ...
 | Project       | Repository    | Live Site  | Description  |
 | ------------- |-------------| ----------| ----------|
-| Demit SB      | https://github.com/rashdogg74/Demit-SB | https://demit-sb.herokuapp.com/ | A full-stack e-commerce project built using Django, Python, HTML, CSS, and JavaScript with Stripe payments integration |
-| The Newsbox      | https://github.com/rashdogg74/newsbox86 | https://thenewsbox74.herokuapp.com/ | A full-stack blog project built using Django, Python, HTML, CSS, and JavaScript |
-| Dale Watts      | https://github.com/rashdogg74/-dale-watts- | n/a site not currently being hosted | A full-stack web quiz, with API integration and spotify streaming built using Python, HTML, CSS, and JavaScript |
+| Demit SB      | https://github.com/paulie-o74/Demit-SB | https://demit-sb.herokuapp.com/ | A full-stack e-commerce project built using Django, Python, HTML, CSS, and JavaScript with Stripe payments integration |
+| The Newsbox      | https://github.com/paulie-o74/newsbox86 | https://thenewsbox74.herokuapp.com/ | A full-stack blog project built using Django, Python, HTML, CSS, and JavaScript |
+| Dale Watts      | https://github.com/paulie-o74/-dale-watts- | n/a site not currently being hosted | A full-stack web quiz, with API integration and spotify streaming built using Python, HTML, CSS, and JavaScript |
 
 ### 📫 How to reach me ...
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) 
@@ -43,7 +43,7 @@ https://twitter.com/therealrashdogg
 
 ![Portfolio Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white) Coming soon!
 
-![Paul Thomas' GitHub stats](https://github-readme-stats.vercel.app/api?username=rashdogg74&show_icons=true&theme=transparent&hide=contribs,prs)
+![Paul Thomas' GitHub stats](https://github-readme-stats.vercel.app/api?username=paulie-o74&show_icons=true&theme=transparent&hide=contribs,prs)
 
 ### 🤝 I’m looking to collaborate on ...
 - Any projects related to edtech
@@ -59,4 +59,4 @@ https://twitter.com/therealrashdogg
 - Red wine
 - Spain
 
-![Snake animation](https://github.com/rashdogg74/rashdogg74/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/paulie-o74/paulie-o74/blob/output/github-contribution-grid-snake.svg)
