@@ -32,10 +32,10 @@ React and the Django Rest Framework 🤓
 https://www.linkedin.com/in/pauloriordan74/
 
 ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) 
-https://www.instagram.com/rashdogg74/
+https://www.instagram.com/paulie_o74/
 
 ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white) 
-https://twitter.com/therealrashdogg
+https://twitter.com/paulie_o74
 
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) pauloriordan74
 
