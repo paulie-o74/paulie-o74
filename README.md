@@ -15,7 +15,7 @@ Post Graduate Diploma in Education from University of Limerick, Ireland.
 B.Sc in Physical Education, Munster Technological University, Ireland.
 
 ### 👨‍💻 Currently working as ...
-Learning Lead for codeinstitute.com , Web Developer & Adjunct Professor in Geneva Business School, Madrid Campus
+Learning Success Manager for codeinstitute.com , Web Developer & Adjunct Professor in Geneva Business School, Madrid Campus
 
 <a href="https://www.buymeacoffee.com/pauloriord7" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
@@ -37,7 +37,6 @@ https://twitter.com/paulie_o74
 
 ### 🤝 I’m looking to collaborate on ...
 - Any projects related to edtech
-- Django projects
 
 ### 💚 My favourites ...
 - Football, Basketball, surf, skate, snowboard
